@@ -1,1 +1,43 @@
-body {background: gold;}
+body {
+    background-color: rgb(228, 201, 201);
+color: rgb(61, 18, 99);
+font-size: 16px;
+font-weight: 400;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.head1{
+    width: 50%;
+    filter: drop-shadow(5px 5px rgba(100,0,0,0.5));
+    filter: blur();
+
+}
+h2{color: blue;
+font-size: 50px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+margin: 0;
+filter: drop-shadow(5px 5px rgba(100,0,0,0.5) );
+}
+.date1{
+    width: 350px;
+}
+.tel1{
+    width: 340px;
+}
+.info p {color: #2d0b7b;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+.form1 {
+  color: blueviolet;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.container {
+width: 50%;
+margin: auto;
+    
+}
+.text1 {
+    color: rgb(45, 37, 37);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    size: 20%;
+}
