@@ -70,7 +70,10 @@ margin-top: 10px;
 }
 .Login{
     border: none;
+    background: transparent;
 }
 .password{
     border: none;
+    background: transparent;
+    margin-bottom: 15px;
 }
